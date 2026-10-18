@@ -4,6 +4,7 @@ public class Main {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
         double n = 0, np1 = 0, np2 = 0, np3 = 0, np4 = 0;
+        double n8 = 0;
         System.out.print("Enter real password: ");
         //просто для тренировки
         if (scan.hasNextLong()) {
